@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AbdulHaq56
-- 👀 I’m interested in New Technologies
 # 💫 About Me:
+- 👋 Hi, I’m @AbdulHaq56
+- 👀 I’m interested in New Technologies 
 🌱 I’m currently learning Web development And AI Engineering <br>
 
 
